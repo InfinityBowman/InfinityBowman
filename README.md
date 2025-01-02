@@ -1,9 +1,7 @@
-### Hi there 👋
+### Hi there
 
-- 🔭 I’m currently working on figuring out webdev stuff as well as audio/DSP programming for audio plugins.
-- 🌱 I’m currently learning the above.
-- 💬 Ask me about music. I like music.
-- 📫 How to reach me: jacobamaynard@proton.me
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I make music!
+- I’m currently working on various app and web projects. I love designing and building amazing experiences.
+- How to reach me: jacobamaynard@proton.me
+- Pronouns: he/him
+- Fun fact: I produce music for fun!
 
