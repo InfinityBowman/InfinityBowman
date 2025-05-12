@@ -1,6 +1,6 @@
 # Hi there, I'm Jacob Maynard 👋
 
-[![Portfolio](https://img.shields.io/badge/Here-Portfolio?style=for-the-badge&logo=globe&label=Portfolio&link=jacobmaynard.dev)](https://jacobmaynard.dev)
+[![Portfolio](https://img.shields.io/badge/Check_it_out-Portfolio?style=for-the-badge&logo=globe&label=Portfolio&link=jacobmaynard.dev)](https://jacobmaynard.dev)
 
 ## I'm a Software Engineer and Frontend Developer
 
@@ -22,7 +22,7 @@
 
 ## Connect with me:
 
-[![mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=jacobamaynard@proton.me)
+[![mail](https://img.shields.io/badge/Proton-2D2A2E?style=for-the-badge&logo=proton)](https://mail.google.com/mail/?view=cm&fs=1&to=jacobamaynard@proton.me)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-maynard-283767230)
 
 <!--START_SECTION:activity-->
