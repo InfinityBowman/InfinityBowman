@@ -1,6 +1,8 @@
 # Hi there, I'm Jacob Maynard 👋
 
-[![Portfolio](https://img.shields.io/badge/Check_it_out-Portfolio?style=for-the-badge&logo=globe&label=Portfolio&link=jacobmaynard.dev)](https://jacobmaynard.dev)
+<a href="https://jacobmaynard.dev" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Check_it_out-Portfolio?style=for-the-badge&logo=globe&label=Portfolio&link=jacobmaynard.dev" alt="Portfolio" />
+</a>
 
 ## I'm a Software Engineer and Fullstack Developer
 
