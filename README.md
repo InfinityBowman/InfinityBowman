@@ -5,7 +5,7 @@
 ## I'm a Software Engineer and Frontend Developer
 
 -   ⚒️ Currently working on a browser game
--   🔰 Learning GSAP and React
+-   🔰 Learning GSAP, React, and Web Components (they are pretty cool!)
 -   ❤️ Love to learn new technologies
 
 ## Skills and Tools:
