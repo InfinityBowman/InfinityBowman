@@ -26,10 +26,6 @@
 ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![ESlint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
 ## Connect with me:
 
 [![mail](https://img.shields.io/badge/Proton-2D2A2E?style=for-the-badge&logo=proton)](https://mail.google.com/mail/?view=cm&fs=1&to=jacobamaynard@proton.me)
