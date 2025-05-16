@@ -2,7 +2,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Check_it_out-Portfolio?style=for-the-badge&logo=globe&label=Portfolio&link=jacobmaynard.dev)](https://jacobmaynard.dev)
 
-## I'm a Software Engineer and Frontend Developer
+## I'm a Software Engineer and Fullstack Developer
 
 -   ⚒️ Currently working on a browser game
 -   🔰 Learning GSAP, React, and Web Components (they are pretty cool!)
