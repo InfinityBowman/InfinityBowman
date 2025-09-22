@@ -7,14 +7,17 @@
 ## I'm a Software Engineer and Fullstack Developer
 
 -   ⚒️ Currently working at an intership for [ARA](https://www.ara.com/)
--   🔰 Learning .NET, Preact, and Web Components (they are pretty cool!)
+-   ⚒️ Also doing my Masters in CS at SLU
+-   🔰 Learning .NET, SolidJS, Service Workers, and Web Components (they are pretty cool!)
 -   ❤️ Hoping to get involved in a cool open source project someday
+-   ❤️ Currently involved with Open Source at SLU ^
 
 ## Skills and Tools:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![NodeJs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Deno](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white)
+![SolidJS](https://img.shields.io/badge/SolidJS-20232A?style=for-the-badge&logo=solid&logoColor=2c4f7c)
 ![React Js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Preact](https://img.shields.io/badge/Preact-20232A?style=for-the-badge&logo=preact&logoColor=673ab8)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
