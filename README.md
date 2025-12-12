@@ -4,19 +4,19 @@
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=infinitybowman.infinitybowman) -->
 
-## I'm a Software Engineer and Fullstack Developer
+## I just like making stuff
 
--   ⚒️ Currently working at an intership for [ARA](https://www.ara.com/)
--   ⚒️ Also doing my Masters in CS at SLU
--   🔰 Learning .NET, SolidJS, Service Workers, and Web Components (they are pretty cool!)
--   ❤️ Hoping to get involved in a cool open source project someday
--   ❤️ Currently involved with Open Source at SLU ^
+-   Currently working at an intership for [ARA](https://www.ara.com/)
+-   Persuing Masters in Artificial Intelligence at SLU
+-   Developing [CoRATES](https://corates.org)
+-   Actively involved with Open Source at SLU
 
 ## Skills and Tools:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![NodeJs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Deno](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-f68220?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![SolidJS](https://img.shields.io/badge/SolidJS-20232A?style=for-the-badge&logo=solid&logoColor=2c4f7c)
 ![React Js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Preact](https://img.shields.io/badge/Preact-20232A?style=for-the-badge&logo=preact&logoColor=673ab8)
@@ -29,7 +29,6 @@
 ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
 ![Bokeh](https://img.shields.io/badge/Bokeh-2F4F4F?style=for-the-badge&logo=python&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
