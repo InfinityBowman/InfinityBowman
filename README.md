@@ -9,7 +9,7 @@
 -   Currently working at an intership for [ARA](https://www.ara.com/)
 -   Persuing Masters in Artificial Intelligence at SLU
 -   Developing [CoRATES](https://corates.org)
--   Actively involved with Open Source at SLU
+-   Actively involved in [Open Source with SLU](https://oss-slu.github.io/)
 
 ## Skills and Tools:
 
