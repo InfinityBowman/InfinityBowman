@@ -6,12 +6,10 @@
 
 ## I just like making stuff
 
--   Currently working at an intership for [ARA](https://www.ara.com/)
--   Persuing Masters in Artificial Intelligence at SLU
--   Developing [CoRATES](https://corates.org)
--   Actively involved in [Open Source with SLU](https://oss-slu.github.io/)
-
-## Skills and Tools:
+- Currently working at an intership for [ARA](https://www.ara.com/)
+- Persuing Masters in Artificial Intelligence at SLU
+- Developing [CoRATES](https://corates.org)
+- Actively involved in [Open Source with SLU](https://oss-slu.github.io/)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![NodeJs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -31,6 +29,22 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## Current Projects
+
+| Project                                                                                   | Description                                                              |
+| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| [CoRATES](https://github.com/InfinityBowman/corates)                                      | Application to streamline quality and risk-of-bias appraisal processes   |
+| [Where's Religion Mobile](https://github.com/oss-slu/lrda_mobile)                         | Lived Religion Mobile Application (OSS @ SLU)                            |
+| [Where's Religion Desktop](https://github.com/oss-slu/lrda_website)                       | Website version of the Where's Religion Application (OSS @ SLU)          |
+| [Worse Preact](https://github.com/InfinityBowman/worse-preact)                            | Custom lightweight UI library                                            |
+| [Fre](https://github.com/InfinityBowman/fre)                                              | Customized tiny concurrent UI library with Fiber                         |
+| [AI Docs Editor](https://github.com/InfinityBowman/ai-docs-editor)                        | Markdown editing with AI capabilities and doxc import/export             |
+| [New Portfolio](https://github.com/InfinityBowman/new-portfolio)                          | Revamped portfolio website using GSAP, React, Motion.js, and TailwindCSS |
+| [BeThere Landing](https://github.com/InfinityBowman/bethere-landing)                      | Landing page for senior capstone mobile app project                      |
+| [Studio Booking](https://github.com/InfinityBowman/studio-booking)                        | Studio booking application                                               |
+| [League of Legends Dashboard](https://github.com/InfinityBowman/LeagueOfLegendsDashboard) | Data visualization using D3.js and the Riot API                          |
+| [Notes App](https://github.com/InfinityBowman/notes-app)                                  | Electron note-taking application                                         |
 
 ## Connect with me:
 
