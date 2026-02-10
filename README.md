@@ -34,6 +34,7 @@
 
 | Project                                                                                   | Description                                                              |
 | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| [FinderTools](https://github.com/InfinityBowman/FinderTools)                               | macOS Finder extension for quick terminal, editor, and file actions       |
 | [CoRATES](https://github.com/InfinityBowman/corates)                                      | Application to streamline quality and risk-of-bias appraisal processes   |
 | [Where's Religion Mobile](https://github.com/oss-slu/lrda_mobile)                         | Lived Religion Mobile Application (OSS @ SLU)                            |
 | [Where's Religion Desktop](https://github.com/oss-slu/lrda_website)                       | Website version of the Where's Religion Application (OSS @ SLU)          |
