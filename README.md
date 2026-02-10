@@ -34,6 +34,7 @@
 
 | Project                                                                                   | Description                                                              |
 | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| [RepoHub](https://github.com/InfinityBowman/repohub)                                      | Native macOS app for managing and running local dev projects              |
 | [FinderTools](https://github.com/InfinityBowman/FinderTools)                               | macOS Finder extension for quick terminal, editor, and file actions       |
 | [CoRATES](https://github.com/InfinityBowman/corates)                                      | Application to streamline quality and risk-of-bias appraisal processes   |
 | [Where's Religion Mobile](https://github.com/oss-slu/lrda_mobile)                         | Lived Religion Mobile Application (OSS @ SLU)                            |
