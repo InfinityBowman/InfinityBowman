@@ -34,9 +34,9 @@
 
 | Project                                                                                   | Description                                                              |
 | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| [RepoHub](https://github.com/InfinityBowman/repohub)                                      | Electron app for managing and running local dev projects                  |
+| [RepoHub](https://github.com/InfinityBowman/repohub)                                      | Desktop developer dashboard with inline terminals, AI agents, semantic code search, and GitHub integration |
 | [FinderTools](https://github.com/InfinityBowman/FinderTools)                               | macOS Finder extension for quick terminal, editor, and file actions       |
-| [CoRATES](https://github.com/InfinityBowman/corates)                                      | Application to streamline quality and risk-of-bias appraisal processes   |
+| [CoRATES](https://github.com/InfinityBowman/corates)                                      | Real-time collaborative research appraisal tool with PDF annotation, offline support, and CRDT sync |
 | [Where's Religion Mobile](https://github.com/oss-slu/lrda_mobile)                         | Lived Religion Mobile Application (OSS @ SLU)                            |
 | [Where's Religion Desktop](https://github.com/oss-slu/lrda_website)                       | Website version of the Where's Religion Application (OSS @ SLU)          |
 | [Worse Preact](https://github.com/InfinityBowman/worse-preact)                            | Custom lightweight UI library                                            |
