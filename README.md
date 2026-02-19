@@ -35,6 +35,8 @@
 | Project                                                                                   | Description                                                              |
 | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | [RepoHub](https://github.com/InfinityBowman/repohub)                                      | Desktop developer dashboard with inline terminals, AI agents, semantic code search, and GitHub integration |
+| [NetRadar](https://github.com/InfinityBowman/NetRadar)                                    | Real-time network signal visualizer for macOS with D3.js force-directed graphs |
+| [ServerForge](https://github.com/InfinityBowman/ServerForge)                              | Docker-based benchmarking platform for comparing Node.js server stacks under load |
 | [FinderTools](https://github.com/InfinityBowman/FinderTools)                               | macOS Finder extension for quick terminal, editor, and file actions       |
 | [CoRATES](https://github.com/InfinityBowman/corates)                                      | Real-time collaborative research appraisal tool with PDF annotation, offline support, and CRDT sync |
 | [Where's Religion Mobile](https://github.com/oss-slu/lrda_mobile)                         | Lived Religion Mobile Application (OSS @ SLU)                            |
