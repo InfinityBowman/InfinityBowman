@@ -6,8 +6,9 @@
 
 ## I just like making stuff
 
-- Currently working at an intership for [ARA](https://www.ara.com/)
-- Persuing Masters in Artificial Intelligence at SLU
+- 🏆 **HackSLU Hackathon Winner** — [Urban STL Analytics](https://github.com/InfinityBowman/urban-stl-analytics)
+- Currently working at an internship for [ARA](https://www.ara.com/)
+- Pursuing Masters in Artificial Intelligence at SLU
 - Developing [CoRATES](https://corates.org)
 - Actively involved in [Open Source with SLU](https://oss-slu.github.io/)
 
@@ -34,6 +35,7 @@
 
 | Project                                                                                   | Description                                                              |
 | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| [Urban STL Analytics](https://github.com/InfinityBowman/urban-stl-analytics)              | 🏆 **HackSLU Grand Prize Winner** — Urban analytics platform for St. Louis with an AI agent that controls the UI, filters data, builds charts, and performs RAG to answer questions across 9 datasets |
 | [RepoHub](https://github.com/InfinityBowman/repohub)                                      | Desktop developer dashboard with inline terminals, AI agents, semantic code search, and GitHub integration |
 | [NetRadar](https://github.com/InfinityBowman/NetRadar)                                    | Real-time network signal visualizer for macOS with D3.js force-directed graphs |
 | [ServerForge](https://github.com/InfinityBowman/ServerForge)                              | Docker-based benchmarking platform for comparing Node.js server stacks under load |
