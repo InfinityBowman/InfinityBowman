@@ -31,21 +31,17 @@
 | Project                                                                                   | Description                                                              |
 | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | [Urban STL Analytics](https://github.com/InfinityBowman/urban-stl-analytics)              | 🏆 **HackSLU Grand Prize Winner** - Urban analytics platform for St. Louis with an AI agent that controls the UI, filters data, builds charts, and performs RAG to answer questions across 9 datasets |
+| [CoRATES](https://github.com/InfinityBowman/corates)                                      | Real-time collaborative research appraisal tool with PDF annotation, offline support, and CRDT sync |
+| [Where's Religion Mobile](https://github.com/oss-slu/lrda_mobile)                         | Lived Religion Mobile Application (OSS @ SLU)                            |
+| [Where's Religion Desktop](https://github.com/oss-slu/lrda_website)                       | Website version of the Where's Religion Application (OSS @ SLU)          |
+| [Portfolio](https://github.com/InfinityBowman/new-portfolio)                          | Revamped portfolio website using GSAP, React, Motion.js, and TailwindCSS |
 | [RepoHub](https://github.com/InfinityBowman/repohub)                                      | Desktop developer dashboard with inline terminals, AI agents, semantic code search, and GitHub integration |
 | [NetRadar](https://github.com/InfinityBowman/NetRadar)                                    | Real-time network signal visualizer for macOS with D3.js force-directed graphs |
 | [ServerForge](https://github.com/InfinityBowman/ServerForge)                              | Docker-based benchmarking platform for comparing Node.js server stacks under load |
 | [FinderTools](https://github.com/InfinityBowman/FinderTools)                               | macOS Finder extension for quick terminal, editor, and file actions       |
-| [CoRATES](https://github.com/InfinityBowman/corates)                                      | Real-time collaborative research appraisal tool with PDF annotation, offline support, and CRDT sync |
-| [Where's Religion Mobile](https://github.com/oss-slu/lrda_mobile)                         | Lived Religion Mobile Application (OSS @ SLU)                            |
-| [Where's Religion Desktop](https://github.com/oss-slu/lrda_website)                       | Website version of the Where's Religion Application (OSS @ SLU)          |
 | [Worse Preact](https://github.com/InfinityBowman/worse-preact)                            | Custom lightweight UI library                                            |
-| [Fre](https://github.com/InfinityBowman/fre)                                              | Customized tiny concurrent UI library with Fiber                         |
 | [AI Docs Editor](https://github.com/InfinityBowman/ai-docs-editor)                        | Markdown editing with AI capabilities and doxc import/export             |
-| [New Portfolio](https://github.com/InfinityBowman/new-portfolio)                          | Revamped portfolio website using GSAP, React, Motion.js, and TailwindCSS |
 | [BeThere Landing](https://github.com/InfinityBowman/bethere-landing)                      | Landing page for senior capstone mobile app project                      |
-| [Studio Booking](https://github.com/InfinityBowman/studio-booking)                        | Studio booking application                                               |
-| [League of Legends Dashboard](https://github.com/InfinityBowman/LeagueOfLegendsDashboard) | Data visualization using D3.js and the Riot API                          |
-| [Notes App](https://github.com/InfinityBowman/notes-app)                                  | Electron note-taking application                                         |
 
 ## Connect with me:
 
