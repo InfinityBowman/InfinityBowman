@@ -2,11 +2,9 @@
 
 [![Portfolio](https://img.shields.io/badge/Check_it_out-Portfolio?style=for-the-badge&logo=globe&label=Portfolio&link=jacobmaynard.dev)](https://jacobmaynard.dev)
 
-<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=infinitybowman.infinitybowman) -->
-
 ## I just like making stuff
 
-- 🏆 **HackSLU Hackathon Winner** — [Urban STL Analytics](https://github.com/InfinityBowman/urban-stl-analytics)
+- 🏆 **HackSLU Hackathon Winner** - [Urban STL Analytics](https://github.com/InfinityBowman/urban-stl-analytics)
 - Currently working at an internship for [ARA](https://www.ara.com/)
 - Pursuing Masters in Artificial Intelligence at SLU
 - Developing [CoRATES](https://corates.org)
@@ -22,20 +20,17 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![esbuild](https://img.shields.io/badge/esbuild-FFCF00?style=for-the-badge&logo=esbuild&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
-![Bokeh](https://img.shields.io/badge/Bokeh-2F4F4F?style=for-the-badge&logo=python&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Current Projects
 
 | Project                                                                                   | Description                                                              |
 | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| [Urban STL Analytics](https://github.com/InfinityBowman/urban-stl-analytics)              | 🏆 **HackSLU Grand Prize Winner** — Urban analytics platform for St. Louis with an AI agent that controls the UI, filters data, builds charts, and performs RAG to answer questions across 9 datasets |
+| [Urban STL Analytics](https://github.com/InfinityBowman/urban-stl-analytics)              | 🏆 **HackSLU Grand Prize Winner** - Urban analytics platform for St. Louis with an AI agent that controls the UI, filters data, builds charts, and performs RAG to answer questions across 9 datasets |
 | [RepoHub](https://github.com/InfinityBowman/repohub)                                      | Desktop developer dashboard with inline terminals, AI agents, semantic code search, and GitHub integration |
 | [NetRadar](https://github.com/InfinityBowman/NetRadar)                                    | Real-time network signal visualizer for macOS with D3.js force-directed graphs |
 | [ServerForge](https://github.com/InfinityBowman/ServerForge)                              | Docker-based benchmarking platform for comparing Node.js server stacks under load |
